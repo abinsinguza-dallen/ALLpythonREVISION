@@ -1,0 +1,13 @@
+# w=range(30)
+# for d in w:
+#     if d%2==0:
+#         print(f"{d} is devisible")
+#     else:
+#         print(f"{d}is not devisible")
+# def absolute_value(num):
+#     if num >=0:
+#         return num
+#     else:
+#         return-num
+# print(absolute_value(2))
+# print(absolute_value(-7))        
